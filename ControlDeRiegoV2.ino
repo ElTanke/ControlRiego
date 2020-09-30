@@ -18,8 +18,6 @@ float Q=0.05;
 #define PUMP 9
 
 uint8_t button_estate[3];
-
-//Estado
 #define S_PRINT  0
 #define S_TRIEGO 1
 #define S_VRIEGO 2
